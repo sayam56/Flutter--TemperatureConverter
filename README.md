@@ -1,6 +1,6 @@
 # temp_app
 
-A new Flutter project.
+A beginner level Flutter Temperature Converter application highlighting keyboard types, working with forms with data sanitization.
 
 ## Getting Started
 
